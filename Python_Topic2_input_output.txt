@@ -1,0 +1,15 @@
+'''
+Python Input and Output(print()) Functions
+
+Write a Python Program to read Employee Number as Integer , Employee Name As String , Employee Salary as Float & print all these Employee Details.
+'''
+
+#
+ename=input("Enter Employee Name:") # This input function to reads employee Name
+eno=int(input("Enter Employee Number:")) # This input function to reads employee Number
+esalary=float(input("Enter Employee Salary:")) # This input function to reads employee Salary
+
+print("The Given Employee Name is:",ename) #this is output(print()) function to print the employee name
+print("The Given Employee Number is:",eno) #this is output(print()) function to print the employee number
+print("The Given Employee Salary is:",esalary) #this is output(print()) function to print the employee Salary
+
